@@ -1,4 +1,4 @@
-![Cakesponge's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakesponge&show_icons=truetheme=tokyonight)
+![Cakesponge's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakesponge&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cakesponge&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
 Primarily using:
@@ -6,4 +6,3 @@ Primarily using:
 
 📝: Wesusa#4163
 
-//&bg_color=30,#e46248,#904e95
