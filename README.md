@@ -6,5 +6,5 @@ Primarily using:
 
 📝: Discord: Wesusa#4163
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4se0dywp57h4oph0soakh2vcw&cover_image=true&theme=default)](https://github.com/cakesponge/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x6qbnxiabsufenjndx4u4ougi4&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
