@@ -4,7 +4,7 @@
 Primarily using:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-📝: Discord: Wesusa#4163
+📝: Discord: wesusa
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x6qbnxiabsufenjndx4u4ougi4&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
